@@ -3,6 +3,7 @@
 - [x] Rails setup
 - [x] Created new model via rails scaffold 
 - [x] Changed default database from sqlite3 to postgres
+- [ ] Install software to enable file uploads in Rails 
 
 ## Setup
 

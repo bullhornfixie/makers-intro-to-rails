@@ -10,6 +10,8 @@ gem 'rails', '~> 6.1.3'
 # Switched from sqlite to postgres 
 gem 'pg'
 # Use Puma as the app server
+gem 'carrierwave'
+# Use Carrierwave for file uploads in Rails 
 gem 'puma', '~> 5.0'
 # Use SCSS for stylesheets
 gem 'sass-rails', '>= 6'
